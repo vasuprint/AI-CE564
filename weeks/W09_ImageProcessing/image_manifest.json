@@ -1,0 +1,22 @@
+{
+  "AndOrImage.png": "65a63cfd5287723df3940dc43db9ac2fab0333b90dea396f523b09d997a83709",
+  "Color.png": "ac4949751a96bab856e83095c5872a85695c07ad01683f12ec65c7fd146791aa",
+  "ImageNegative.png": "8040ca8d49460bf670db319385c77e2c08be4e381a74631ed22c54424dda7f1b",
+  "ImageSubstraction.png": "dd5a60505e4b025e6196b2fff9ce67f7d4d3410329ab06aef2fa42f7393ce224",
+  "LogTransform.png": "ebde07dfabb036148dfea23beb0eb6986650d835a1699e44f1b99564de2c2ae4",
+  "PlushImage.png": "565ffd666b8777e830a0f61776660495c5132b62ef8eb5d0c4530babc2ee899b",
+  "PowerLaw.png": "b5fff4b41f15496a6954915782201c88ac30a43f2f410c9fe601771af1a4ddc6",
+  "RGBImagge.png": "14d37668bf2fe580c0e375d798f086e4e5ea490c18518e716f4ac0a6ad62c8b5",
+  "camera.png": "b0793d2adda0fa6ae899c03989482bff9a42d3d5690fc7e3648f2795d730c23a",
+  "camera_demo_base.png": "8c4ef58357a25bc240db64cefb9bc44628873e9a27f79fa37cb19068e7abdaa0",
+  "grace_hopper.jpg": "a8ca6d734765703b09728ab47fe59f473d93ae3967fc24c7c0288c3c7adb7130",
+  "grace_noisy_1.png": "fce8d40a599e9737fb57edc0374c0c6a9c6c1ffda980bd8eba4655078cfbf203",
+  "grace_noisy_2.png": "59a8312fc9d900c9c073fc72b60867be6d5d3d721f9a654af99e06b986d31fa5",
+  "grace_noisy_3.png": "071de2120261e20a38cee1c295bb896fb692634a8f5a87b306f38bfab5cca6cf",
+  "grace_noisy_4.png": "f49344cabaf6a12037eaa338b8c5bea23b73a2e178b3baa8c0487a77fdae1a6e",
+  "kernel_sliding.gif": "debb7ab47ba090b074bda4389b6c2fe158810d75a72d452f51cac4d510e8023c",
+  "kernel_sliding_steps.png": "1443f336512348b8a9eff1141984d18f570f0c81e07e9932c1c1f370f9d51369",
+  "moon_demo_base.png": "192f84491a784eec73dddf8a0c9cff3b70427b99a0c55291f98d91425302f850",
+  "rgb_pixel_coordinates.png": "c78e33ec193bcb60bba4e8cf2bcf19c39e386bb86cb6987a3bf78074d6589ce7",
+  "vintage_paper.png": "d4be9a94c64d32807b75e5d0674a73239497bdd66ab8bc73fe1844156f5f6abc"
+}
